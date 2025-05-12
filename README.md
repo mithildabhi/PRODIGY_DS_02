@@ -2,6 +2,7 @@
 
 Welcome to **Task 2** of my internship at **Prodigy InfoTech**!  
 This task focuses on performing **data cleaning** and **exploratory data analysis (EDA)** using real-world datasets to extract meaningful insights.
+
   <img width="742" alt="question" src="https://github.com/mithildabhi/PRODIGY_DS_02/blob/main/question.png" style ='center'/>
 
 ---
